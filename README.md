@@ -43,4 +43,4 @@ Online learning platforms
 
 Personalized content feeds
 
-*OUTPUT*:
+*OUTPUT*:<img width="366" height="206" alt="Image" src="https://github.com/user-attachments/assets/5a568f14-0bec-4c1d-846c-a163fcd935db" />
